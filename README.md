@@ -1,5 +1,5 @@
 # GDOCK
-自动从lean的lede源码clone并生成竞斗云固件
+自动从lean的lede源码clone并生成竞斗云固件1
 
 *将本项目fork到自己账号下,进行以下操作即可得到专属定制固件*
 
